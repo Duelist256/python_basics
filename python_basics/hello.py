@@ -1,0 +1,31 @@
+#!usr/bin/env python3
+
+print('hello world')
+
+# Exercise 1. Make a Python program that prints your name.
+print("Duelist")
+# Exercise 2. Make a program that displays the lyrics of a song.
+print("Run boy run! This world is not made for you")
+print("Run boy run! They’re trying to catch you")
+print("Run boy run! Running is a victory")
+print("Run boy run! Beauty lays behind the hills")
+print("Run boy run! The sun will be guiding you")
+print("Run boy run! They’re dying to stop you")
+print("Run boy run! This race is a prophecy")
+print("Run boy run! Break out from society")
+print("Tomorrow is another day")
+print("And you won’t have to hide away")
+print("You’ll be a man, boy!")
+print("But for now it’s time to run, it’s time to run!")
+print("Run boy run! This ride is a journey to")
+print("Run boy run! The secret inside of you")
+print("Run boy run! This race is a prophecy")
+print("Run boy run! And disappear in the trees")
+print("Tomorrow is another day")
+print("And you won’t have to hide away")
+print("You’ll be a man, boy!")
+print("But for now it’s time to run, it’s time to run!")
+print("Tomorrow is another day")
+print("And when the night fades away")
+print("You’ll be a man, boy!")
+print("But for now it’s time to run, it’s time to run!)")
